@@ -15,30 +15,36 @@
 
 
 	<!-- Issue tracker -->
+<!--
 	<issueManagement>
 		<system>Bugzilla</system>
 		<url>http://place_actual_url/bugzilla/</url>
 	</issueManagement>
+-->
 
 	<!-- CI Server -->
+<!--
 	<ciManagement>
 		<system>Jenkins</system>
 		<url>http://jpaas-region-1.cognizant.com/baas/</url>
 	</ciManagement>
+-->
 
 	<!-- Organization info -->
+<!--
 	<organization>
 		<name>Cognizant</name>
 		<url>www.cognizant.com</url>
 	</organization>
+-->
 
 	<!-- SCM settings -->
 	<scm>
-		<url>https://github.com/iamsoumyak/SampleMavenApp</url>
+		<url>https://github.com/joncosIT/SampleMavenApp</url>
 		<!-- Read - only link -->
-		<connection>scm:git:git://github.com/iamsoumyak/SampleMavenApp.git</connection>
+		<connection>scm:git:git://github.com/joncosIT/SampleMavenApp.git</connection>
 		<!-- Read + Write link -->
-		<developerConnection>scm:git:git@github.com:iamsoumyak/SampleMavenApp.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:joncosIT/SampleMavenApp.git</developerConnection>
 	</scm>
 
 	<!-- Mailing list -->
